@@ -8,32 +8,19 @@
 
 ============================================================== 
 |  사용 가능한 언어  |  공부 중인 언어  | 사용 가능한 DB  |
-|:-----          |    :-----:    |        -----:|
-| html           | 
-| css            |
-| javascript     |
+|:--------       |    :--------: |     --------:|
+| html           |     JAVA      |    Mysql
+| css            |     JSP       |    
+| javascript     |     jQuery    |
 |react && redux  |
+|   사용하는 OS    |  사용하는 프로그램
+|:--------       |    :--------: |     --------:|
+| MacOS          |  Eclipse.     |
+| Window         |  Intelli J    |
+|                |  VScode       |
+|                |  SouceTree    | 
 
-사용 가능한 언어                     <tr><tr><tr>공부 중인 언어
-- html                         <br><br><br> - Java
-- css                          <br><br><br> - JSP
-- javascript                   <br><br><br> - jQuery
-- react && redux
-- node js 
 
-==============================================================
-
-사용 가능 DB                   사용하는 OS 
-- mongo db                   - MacOS
-- Mysql                      - Window
- 
- ==============================================================
-
-사용하는 프로그램
-- Eclipse
-- Intelli J
-- Vscode 
-- SouceTree
 
 
 
