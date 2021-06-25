@@ -9,14 +9,30 @@
 - react && redux
 - node js 
 
+
 공부 중인 언어
+- Java
 - JSP
 - Vue
 - jQuery
 
+
 사용 가능 DB
 - mongo db
 - Mysql
+
+
+사용하는 OS 
+- MacOS 
+- Window 
+
+사용하는 프로그램
+- Eclipse
+- Intelli J
+- Vscode 
+- SouceTree
+
+
 
 
 
