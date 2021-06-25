@@ -9,7 +9,7 @@
 ============================================================== 
 
 
-사용 가능한 언어                   <br><br><br>   공부 중인 언어
+사용 가능한 언어                     <th><th><th>공부 중인 언어
 - html                         <br><br><br> - Java
 - css                          <br><br><br> - JSP
 - javascript                   <br><br><br> - jQuery
