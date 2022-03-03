@@ -10,15 +10,6 @@
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiminjun94&langs_count=4&layout=compact&theme=dark)](https://github.com/choiminjun94/choiminjun94)
 
-============================================================== 
-| 사용 했던 언어   | 공부 중인 언어  | 공부중인 DB  |  사용하는 OS  | 사용하는 프로그램
-| :--------:     |    :--------: |  :--------:  | :--------: |  :--------:
-| html           |     JAVA      |    Mysql     |   MacOS    |    Eclipse
-| css            |     JSP       |              |   Window   |    Intelli J
-| javascript     |     jQuery    |              |            |    VScode  
-| react & redux  |     Spring    |              |            |    SouceTree 
-
-
 # Tech Stact
 OS : <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
 
