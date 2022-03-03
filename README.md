@@ -28,7 +28,7 @@ Deployment : <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-s
 
 Version Control  : <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiminjun94&langs_count=4layout=compact&theme=dark)](https://github.com/choiminjun94/choiminjun94)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiminjun94&langs_count=10layout=compact&theme=dark)](https://github.com/choiminjun94/choiminjun94)
 
 
 
