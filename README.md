@@ -9,9 +9,8 @@
 ## 안녕하세요 현재 소프트웨어 개발자를 꿈꾸고 있는 예비 개발자 입니다.
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiminjun94&langs_count=4&layout=compact&theme=dark)](https://github.com/choiminjun94/choiminjun94)   ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=choiminjun94&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
-
-
-
+<br/>
+<br/>
 
 ## 🔨 Technology Stacks
 OS : <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
@@ -27,9 +26,10 @@ Deployment : <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-s
 Version Control  : <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
 
 IDE : <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+<br/>
+<br/>
 
-
-## ✏️ Blog For Learning - <a href="https://it-eldorado.tistory.com">Here</a>
+## ✏️ Blog For Learning - <a href="https://duridan-program.tistory.com/">Here</a>
 
 
 
