@@ -7,8 +7,10 @@
 
 
 ## 안녕하세요 현재 소프트웨어 개발자를 꿈꾸고 있는 예비 개발자 입니다.
-
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiminjun94&langs_count=4&layout=compact&theme=dark)](https://github.com/choiminjun94/choiminjun94)   ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=choiminjun94&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+ <br/>
+ 
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=choiminjun94&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
+![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=choiminjun94&layout=compact&theme=dracula)
 <br/>
 <br/>
 
@@ -29,7 +31,8 @@ IDE : <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-squar
 <br/>
 <br/>
 
-## ✏️ Blog For Learning - <a href="https://duridan-program.tistory.com/">Here</a>
+## 📝 Portfolio Website - <a href="https://cdg-portfolio.com">Here</a>
+![캡쳐](https://user-images.githubusercontent.com/60457431/156731117-56e05551-aec0-46db-a5c9-461c36426b6e.png)
 
 
 
