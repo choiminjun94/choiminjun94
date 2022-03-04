@@ -8,9 +8,12 @@
 
 ## 안녕하세요 현재 소프트웨어 개발자를 꿈꾸고 있는 예비 개발자 입니다.
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiminjun94&langs_count=4&layout=compact&theme=dark)](https://github.com/choiminjun94/choiminjun94)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choiminjun94&langs_count=4&layout=compact&theme=dark)](https://github.com/choiminjun94/choiminjun94)   ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=choiminjun94&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 
-# Tech Stact
+
+
+
+## 🔨 Technology Stacks
 OS : <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>
 
 Frontend : <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> 
