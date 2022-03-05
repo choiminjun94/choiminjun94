@@ -34,6 +34,12 @@ IDE : <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-squar
 ## 📝 Portfolio Website - <a href="https://cdg-portfolio.com">Here</a>
 ![캡쳐](https://user-images.githubusercontent.com/60457431/156731117-56e05551-aec0-46db-a5c9-461c36426b6e.png)
 
+## 📝 Blog For Learning - <a href="https://duridan-program.tistory.com/">Here</a>
+![image](https://user-images.githubusercontent.com/60457431/156876061-74778cff-3df9-48d9-8603-efc83aefeb18.png)
+
+
+
+
 
 
 
