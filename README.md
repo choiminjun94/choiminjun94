@@ -1,4 +1,4 @@
-# 안녕하세요 👋
+# 안녕하세요,（ 初めまして）👋
 
 🔖 [공부 정리 티스토리 바로가기](https://duridan-program.tistory.com/)
 🔖 [프로필 Notion 바로가기](https://www.notion.so/3b71fd9255d94f6489ec1898b07a87a8)
